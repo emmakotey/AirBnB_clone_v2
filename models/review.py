@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Review module for the HBNB project """
+""" A Review module for the HBNB project """
 import os
 from sqlalchemy import Column, ForeignKey, String
 from sqlalchemy.orm import relationship

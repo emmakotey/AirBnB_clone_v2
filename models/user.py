@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This module defines a class User"""
+"""A This module defines a class User"""
 import os
 from sqlalchemy import Column, String
 from sqlalchemy.orm import relationship
